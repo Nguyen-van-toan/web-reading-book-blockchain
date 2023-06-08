@@ -1,6 +1,10 @@
-pragma solidity >=0.4.22 <0.7.0;
+// SPDX-License-Identifier: MIT
 
-import "./ConvertLib.sol";
+
+
+pragma solidity >=0.4.22;
+
+import "./ConvertLib.sol"; 
 
 // This is just a simple example of a coin-like contract.
 // It is not standards compatible and cannot be expected to talk to other
